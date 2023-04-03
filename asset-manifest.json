@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/static/js/main.fde558b1.js",
-    "static/js/787.b6e36b20.chunk.js": "/static/js/787.b6e36b20.chunk.js",
-    "index.html": "/index.html",
-    "main.fde558b1.js.map": "/static/js/main.fde558b1.js.map",
-    "787.b6e36b20.chunk.js.map": "/static/js/787.b6e36b20.chunk.js.map"
+    "main.js": "/Matt-Jones-Developer/mortgage-calculator/static/js/main.65f22c07.js",
+    "static/js/787.b6e36b20.chunk.js": "/Matt-Jones-Developer/mortgage-calculator/static/js/787.b6e36b20.chunk.js",
+    "index.html": "/Matt-Jones-Developer/mortgage-calculator/index.html",
+    "main.65f22c07.js.map": "/Matt-Jones-Developer/mortgage-calculator/static/js/main.65f22c07.js.map",
+    "787.b6e36b20.chunk.js.map": "/Matt-Jones-Developer/mortgage-calculator/static/js/787.b6e36b20.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.fde558b1.js"
+    "static/js/main.65f22c07.js"
   ]
 }
